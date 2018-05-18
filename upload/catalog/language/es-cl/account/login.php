@@ -11,6 +11,6 @@ $_['text_i_am_returning_customer'] = 'Soy un cliente registrado';
 $_['text_forgotten'] = 'Contraseña olvidada';
 $_['entry_email'] = 'Dirección de correo electrónico';
 $_['entry_password'] = 'Contraseña';
-$_['error_login'] = 'Warning: No match for E-Mail Address and/or Password.';
+$_['error_login'] = 'Advertencia: No hay resultados para la direcci&oacute;n de correo electr&oacute;nico y / o contrase&ntilde;a.';
 $_['error_attempts'] = 'Aviso: Tu cuenta ha excedido el número de intentos de inicio de sesión. Por favor intenta de nuevo en 1 hora.';
 $_['error_approved'] = 'Aviso: ¡Tu cuenta requiere aprobación antes de que puedas iniciar sesión!';
