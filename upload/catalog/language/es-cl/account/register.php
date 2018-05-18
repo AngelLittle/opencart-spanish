@@ -3,11 +3,11 @@
 $_['heading_title'] = 'Registrar cuenta';
 $_['text_account'] = 'Cuenta';
 $_['text_register'] = 'Registro';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
+$_['text_account_already'] = 'Si ya tiene una cuenta con nosotros, por favor entre en la <a href="%s">p&aacute;gina de acceso</a>.';
 $_['text_your_details'] = 'Tus detalles personales';
-$_['text_newsletter'] = 'Hoja informativa';
+$_['text_newsletter'] = 'Bolet&iacute;n';
 $_['text_your_password'] = 'Tu contraseña';
-$_['text_agree'] = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree'] = 'He le&iacute;do y estoy de acuerdo con el <a href="%s" class="agree"> <b>% s </ b> </a>';
 $_['entry_customer_group'] = 'Grupo de clientes';
 $_['entry_firstname'] = 'Nombres';
 $_['entry_lastname'] = 'Apellido';
