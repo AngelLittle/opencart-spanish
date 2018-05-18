@@ -13,7 +13,7 @@ $_['text_payment_address'] = 'Dirección de pago';
 $_['text_payment_method'] = 'Medio de pago:';
 $_['text_comment'] = 'Comentarios del pedido';
 $_['text_history'] = 'Historial de pedidos';
-$_['text_success'] = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_success'] = '&Eacute;xito: Usted ha a&ntilde;adido <a href="%s">% s </a> a su carrito de compras <a href="%s"> </a>!';
 $_['text_empty'] = '¡No has hecho pedidos anteriormente!';
 $_['text_error'] = '¡No se pudo encontrar el pedido que solicitaaste!';
 $_['column_order_id'] = 'ID del pedido';
